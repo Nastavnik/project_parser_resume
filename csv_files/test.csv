@@ -1,0 +1,20 @@
+
+salary text,
+age text,
+family_status text,
+city text,
+readiness_to_move text,
+employment text,
+citizenship text,
+professional_skill text,
+years_of_experience text,
+experience  text,
+education text,
+foreign_language  VARCHAR (100),
+drivers_license  VARCHAR (100),
+additional_information text
+);
+link_resume,job_title,
+https://www.superjob.ru/vakansii/biznes-analitik-47349612.html, Менеджер проекта
+
+https://trudvsem.ru/cv/card/7b1cd090-7e79-11ea-aa85-bfd13399602c/873f67c0-7e7e-11ea-aa85-bfd13399602c,, Аналитик
